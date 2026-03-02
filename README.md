@@ -5,3 +5,7 @@ CIS_2026
 ---
 
 Задание 3 Работа с удалённым репозиторием GitHub 
+
+---
+
+Задание 4 Merge Requests и Code Review
