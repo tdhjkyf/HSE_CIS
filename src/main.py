@@ -1,5 +1,6 @@
 def main():
     print("Hello from src/main.py!")
+    print("IT changed")
 
     a = 7
     b = 3
